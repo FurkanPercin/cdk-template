@@ -6,7 +6,7 @@ import { PatikaVPCStack } from '../lib/vpc';
 import {PatikaVPNServer} from '../lib/ec2';
 
 const env={
-  account:'010876915553',
+  account:'account_id girilir',
   region:'eu-central-1'
 }
 
