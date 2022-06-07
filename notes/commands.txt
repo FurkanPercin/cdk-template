@@ -1,0 +1,7 @@
+cdk init --language typescript //initialize cdk
+
+npm run watch // watch modu aktif et
+
+cdk synth CdkTemplateV1Stack // istenilen stacki synth et template'i üret
+
+cdk deploy CdkTemplateV1Stack  // istenilen stacki deploy et 
